@@ -1,0 +1,241 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1392920951",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "SPARC Incorporation",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": "Sangam Market",
+			"addr:street": "Sangam Road",
+			"alt_name": "SPARCINC",
+			"int_name": "SPARC Incorporation",
+			"old_name": "SPARCINC",
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4223298,
+			27.6944516]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1905940156",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "Kalika Construction",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": "construction",
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4332309,
+			27.6931118]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1905959109",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "Narayangarh Jaycees",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.422244,
+			27.6986078]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1905959111",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "Narayangarh Chamber of Commerce Industries",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4246527,
+			27.6999919]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1906007953",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "Nepal Timber Corporation",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": "yes"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4398409,
+			27.6912897]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/1966258812",
+			"building": "yes",
+			"type": null,
+			"amenity": null,
+			"name": "Nepal Scout",
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4348452,
+			27.6803003]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/2456571849",
+			"building": "yes",
+			"type": null,
+			"amenity": "fuel",
+			"name": null,
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4211439,
+			27.697213]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"@id": "node\/2456659200",
+			"building": "yes",
+			"type": null,
+			"amenity": "fuel",
+			"name": null,
+			"internet_access": null,
+			"source": null,
+			"tourism": null,
+			"website": null,
+			"name:ne": null,
+			"religion": null,
+			"shop": null,
+			"addr:housename": null,
+			"addr:street": null,
+			"alt_name": null,
+			"int_name": null,
+			"old_name": null,
+			"landuse": null,
+			"office": null
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [84.4294222,
+			27.684665]
+		}
+	}]
+}

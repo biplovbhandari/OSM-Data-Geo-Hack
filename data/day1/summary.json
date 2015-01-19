@@ -1,0 +1,17 @@
+{
+    "type": "Summary",
+    "data": {
+        "Map-features": 51,
+        "Drinking Water":7,
+        "School": 4,        
+        "Hospitals":1,
+        "Kiwi Farm":2,
+        "Place of Worship (Temples)": 3,
+        "Ashram":2,        
+        "Grave Yard":1,
+        "Coorporative":1,
+        "Hotels":1,
+        "Others": 29,
+        "Total Length of Roads Mapped":"13.2km"
+    }
+}

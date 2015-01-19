@@ -1,0 +1,18 @@
+{
+    "type": "Summary",
+    "data": {
+        "Map-features": 573,
+        "Place of Worship (Temples)": 8,
+        "Pharmacy":1,
+        "Library":1,
+        "Hotels, Fast Food, Cafe":8,
+        "Drinking Water":4,
+        "Agrocentre":3,
+        "Gold Silver Shop": 2,        
+        "School": 4, 
+        "Bank" :1,
+        "Others":540,
+		"Area of Forest Mapped (kilometer square)": 1.3265,
+        "Total Length of Roads Mapped":"82.54km"
+    }
+}
